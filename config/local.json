@@ -1,0 +1,8 @@
+{
+  "db": {
+    "uri": "mongodb+srv://ginidEcom:6RCLyxgg4MAtQ42z@ecom.e6o4q.mongodb.net/Ecom?retryWrites=true&w=majority"
+  },
+  "JWT": {
+    "key": "sgs6RCLyxgdsyukjgg1234MAt123Q4sdf2z"
+  }
+}
